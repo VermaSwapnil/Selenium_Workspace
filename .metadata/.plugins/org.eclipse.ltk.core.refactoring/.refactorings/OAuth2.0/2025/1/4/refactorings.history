@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;OAuthTest.java&apos; to &apos;RestAssured/src/test/java/POJO&apos;&#x0D;&#x0A;- Original project: &apos;OAuth2.0&apos;&#x0D;&#x0A;- Destination element: &apos;RestAssured/src/test/java/POJO&apos;&#x0D;&#x0A;- Original element: &apos;Test.OAuthTest.java&apos;" description="Copy compilation unit" destination="=RestAssured/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;POJO" element1="/src=/optional=/true=/=/maven.pomderived=/true=/&lt;Test{OAuthTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1737266581691" units="1" version="1.0"/>
-</session>
