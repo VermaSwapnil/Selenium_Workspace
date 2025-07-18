@@ -11,7 +11,7 @@ public class WebDriver_Methods {
 		WebDriver driver = new ChromeDriver(); //Up-casting
 		
 		//Maximize the window
-		
+		driver.manage().window().maximize();
 		
 	}
 

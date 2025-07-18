@@ -1,0 +1,10 @@
+package PlaywrightWithJava;
+
+public class FirstPlaywrightTest {
+	
+	public static void main(String[] args) {
+		
+		
+	}
+
+}
